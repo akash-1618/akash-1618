@@ -2,7 +2,7 @@
 <hr>
 I would appreciate recommendations from you of all kinds. Thank you.
 <br>
-(My CodePen account)[https://codepen.io/akash-1618]
+[My CodePen account](https://codepen.io/akash-1618)
 <!--
 **akash-1618/akash-1618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
