@@ -1,6 +1,6 @@
 ### akash
 <hr>
-I would appreciate recommendations from you of all kinds. Thank you.
+CSS. I would appreciate recommendations from you of all kinds. Thank you.
 <br> 
 
 [My CodePen account.](https://codepen.io/akash-1618)
