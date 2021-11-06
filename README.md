@@ -3,7 +3,7 @@
 I would appreciate recommendations from you of all kinds. Thank you.
 <br> 
 
-[codepen](https://codepen.io/akash-1618)
+[My CodePen account.](https://codepen.io/akash-1618)
 
 
 <!--
