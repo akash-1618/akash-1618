@@ -2,7 +2,7 @@
 <hr>
 I would appreciate recommendations from you of all kinds. Thank you.
 <br>
-My [codepen](https://codepen.io/akash-1618) account.
+[codepen](https://codepen.io/akash-1618)
 
 
 <!--
