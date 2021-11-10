@@ -5,10 +5,6 @@ css. i would appreciate recommendations from you of all kinds. thank you.
 
 [my codepen account.](https://codepen.io/akash-1618)
 
-  <video loop autoplay muted width="50%" style="min-width:280px;">
-  <source src="https://thumbs.gfycat.com/DecimalPertinentDeermouse-mobile.mp4" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
 <!--
 **akash-1618/akash-1618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
