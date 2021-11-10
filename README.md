@@ -1,10 +1,11 @@
 ### akash
 <hr>
-css. i would appreciate recommendations from you of all kinds. thank you.
+css. i would appreciate all kinds of recommendations from you. thank you.
 <br> 
 
 [my codepen account.](https://codepen.io/akash-1618)
 
+<img src="https://imgur.com/bOkr3ML.gif" width="50%">
 <!--
 **akash-1618/akash-1618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
